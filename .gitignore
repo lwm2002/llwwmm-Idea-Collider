@@ -1,0 +1,12 @@
+node_modules/
+.npm-cache/
+.playwright/
+dist/
+test-results/
+playwright-report/
+*.log
+*.tsbuildinfo
+.env*
+!.env.example
+.dsh-acl-repair/
+backups/
